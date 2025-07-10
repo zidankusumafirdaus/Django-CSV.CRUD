@@ -1,0 +1,132 @@
+id,brand,model,price
+1,Toyota,Corolla,20000
+2,Honda,Civic,22000
+3,Ford,Focus,18000
+4,BMW,X5,55000
+5,Mercedes-Benz,C-Class,48000
+6,Audi,A4,42000
+7,Volkswagen,Golf,25000
+8,Hyundai,Elantra,21000
+9,Kia,Sportage,28000
+10,Nissan,Altima,23000
+11,Mazda,CX-5,29000
+12,Subaru,Outback,32000
+13,Tesla,Model 3,45000
+14,Chevrolet,Malibu,24000
+15,Jeep,Wrangler,35000
+16,Ram,1500,38000
+17,GMC,Sierra,40000
+18,Dodge,Charger,30000
+19,Chrysler,Pacifica,33000
+20,Lexus,RX,50000
+21,Acura,MDX,47000
+22,Infiniti,QX60,49000
+23,Volvo,XC60,46000
+24,Porsche,911,100000
+25,Land Rover,Discovery,60000
+26,Jaguar,F-Pace,52000
+27,Alfa Romeo,Giulia,40000
+28,Fiat,500,16000
+29,Mitsubishi,Outlander,27000
+30,Suzuki,Swift,17000
+31,Honda,CR-V,30000
+32,Toyota,RAV4,31000
+33,Ford,Escape,26000
+34,BMW,3 Series,43000
+35,Mercedes-Benz,E-Class,53000
+36,Audi,Q5,47000
+37,Volkswagen,Passat,26000
+38,Hyundai,Tucson,29000
+39,Kia,Sorento,32000
+40,Nissan,Rogue,29000
+41,Mazda,Mazda3,23000
+42,Subaru,Forester,27000
+43,Tesla,Model Y,50000
+44,Chevrolet,Equinox,27000
+45,Jeep,Cherokee,30000
+46,Ram,2500,45000
+47,GMC,Yukon,58000
+48,Dodge,Durango,38000
+49,Chrysler,300,36000
+50,Lexus,ES,45000
+51,Acura,TLX,40000
+52,Infiniti,Q50,42000
+53,Volvo,S60,40000
+54,Porsche,Cayenne,75000
+55,Land Rover,Range Rover,90000
+56,Jaguar,XE,45000
+57,Alfa Romeo,Stelvio,48000
+58,Fiat,Panda,15000
+59,Mitsubishi,ASX,25000
+60,Suzuki,Vitara,24000
+61,Honda,Accord,27000
+62,Toyota,Camry,28000
+63,Ford,F-150,35000
+64,BMW,5 Series,50000
+65,Mercedes-Benz,GLC,51000
+66,Audi,A6,50000
+67,Volkswagen,Tiguan,28000
+68,Hyundai,Kona,22000
+69,Kia,Forte,20000
+8,Hyundai,Elantra,21000
+9,Kia,Sportage,28000
+10,Nissan,Altima,23000
+11,Mazda,CX-5,29000
+12,Subaru,Outback,32000
+13,Tesla,Model 3,45000
+14,Chevrolet,Malibu,24000
+15,Jeep,Wrangler,35000
+16,Ram,1500,38000
+17,GMC,Sierra,40000
+18,Dodge,Charger,30000
+19,Chrysler,Pacifica,33000
+20,Lexus,RX,50000
+21,Acura,MDX,47000
+22,Infiniti,QX60,49000
+23,Volvo,XC60,46000
+24,Porsche,911,100000
+25,Land Rover,Discovery,60000
+26,Jaguar,F-Pace,52000
+27,Alfa Romeo,Giulia,40000
+28,Fiat,500,16000
+29,Mitsubishi,Outlander,27000
+30,Suzuki,Swift,17000
+31,Honda,CR-V,30000
+32,Toyota,RAV4,31000
+33,Ford,Escape,26000
+34,BMW,3 Series,43000
+35,Mercedes-Benz,E-Class,53000
+36,Audi,Q5,47000
+37,Volkswagen,Passat,26000
+38,Hyundai,Tucson,29000
+39,Kia,Sorento,32000
+40,Nissan,Rogue,29000
+41,Mazda,Mazda3,23000
+42,Subaru,Forester,27000
+43,Tesla,Model Y,50000
+44,Chevrolet,Equinox,27000
+45,Jeep,Cherokee,30000
+46,Ram,2500,45000
+47,GMC,Yukon,58000
+48,Dodge,Durango,38000
+49,Chrysler,300,36000
+50,Lexus,ES,45000
+51,Acura,TLX,40000
+52,Infiniti,Q50,42000
+53,Volvo,S60,40000
+54,Porsche,Cayenne,75000
+55,Land Rover,Range Rover,90000
+56,Jaguar,XE,45000
+57,Alfa Romeo,Stelvio,48000
+58,Fiat,Panda,15000
+59,Mitsubishi,ASX,25000
+60,Suzuki,Vitara,24000
+61,Honda,Accord,27000
+62,Toyota,Camry,28000
+63,Ford,F-150,35000
+64,BMW,5 Series,50000
+65,Mercedes-Benz,GLC,51000
+66,Audi,A6,50000
+67,Volkswagen,Tiguan,28000
+68,Hyundai,Kona,22000
+69,Kia,Forte,20000
