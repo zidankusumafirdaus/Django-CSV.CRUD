@@ -1,0 +1,6 @@
+<h1>Hapus Mobil</h1>
+<p>Anda yakin ingin menghapus mobil {{ car }}?</p>
+<form method="post">{% csrf_token %}
+    <button type="submit">Ya, Hapus</button>
+</form>
+<a href="{% url 'car_list' %}">Batal</a>

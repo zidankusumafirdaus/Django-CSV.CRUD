@@ -1,0 +1,6 @@
+<h1>{{ form.instance.pk|yesno:"Edit Mobil,Tambah Mobil" }}</h1>
+<form method="post">{% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Simpan</button>
+</form>
+<a href="{% url 'car_list' %}">Kembali</a>

@@ -1,0 +1,18 @@
+<h1>Daftar Mobil</h1>
+<a href="{% url 'car_create' %}">Tambah Mobil</a> |
+<a href="{% url 'upload_csv' %}">Upload CSV</a>
+<table border="1">
+    <tr><th>ID</th><th>Brand</th><th>Model</th><th>Price</th><th>Actions</th></tr>
+    {% for car in cars %}
+    <tr>
+        <td>{{ car.id }}</td>
+        <td>{{ car.brand }}</td>
+        <td>{{ car.model }}</td>
+        <td>{{ car.price }}</td>
+        <td>
+            <a href="{% url 'car_update' car.pk %}">Edit</a> |
+            <a href="{% url 'car_delete' car.pk %}">Delete</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
